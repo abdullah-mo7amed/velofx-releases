@@ -30,7 +30,7 @@ You can always download the latest official Windows installer directly from our 
 - **Discord IPC Repair:** Resolves "Checking Discord" connection hangs with a single click.
 
 ### 4. RP Tools & Configuration Backups
-- **Config Locker:** Backup and restore your `fivem.cfg` and `gta5_settings.xml` configurations.
+- **Config Locker:** Backup and restore your fivem.cfg and gta5_settings.xml configurations.
 - **Rockstar & Steam Auth Fixer:** Clears stale entitlement tickets and stuck launcher processes.
 
 ---
@@ -48,16 +48,9 @@ You can always download the latest official Windows installer directly from our 
 
 ## Installation
 
-1. Download **`Setup.exe`** from the link above.
+1. Download **Setup.exe** from the link above.
 2. Run the installer and follow the on-screen instructions.
 3. Launch **VeloFX** from your desktop shortcut or start menu.
-
----
-
-## Support & Community
-
-For support, feature requests, or license key management, join our official Discord community:
-- **Discord:** [Join Community](https://discord.gg/)
 
 ---
 
